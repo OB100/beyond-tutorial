@@ -1,5 +1,5 @@
 # beyond-tutorial
-A basic tutorial for the tools used in the Beyond course.
+A basic tutorial for the tools used in the Beyond course by Omer.
  
 This tutorial includes instructions about how to use the following tools:
  
