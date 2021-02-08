@@ -1,5 +1,5 @@
 name: flake8
-on: pull request
+on: pull_request
 jobs:
    flake8:
       name: Check code with Flake8
