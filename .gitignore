@@ -131,3 +131,6 @@ dmypy.json
 # Vagrant
 .vagrant/
 nohup.out
+
+# database
+db.sqlite3
